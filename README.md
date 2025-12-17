@@ -28,12 +28,12 @@ This project was created to practice JavaScript concepts such as DOM manipulatio
 ├── style.css
 ├── main.js
 └── images/
-├── 1.png
-├── 2.png
-├── 3.png
-├── 4.png
-├── 5.png
-└── 6.png
+    ├── 1.png
+    ├── 2.png
+    ├── 3.png
+    ├── 4.png
+    ├── 5.png
+    └── 6.png
 
 
 ## Future Improvements
