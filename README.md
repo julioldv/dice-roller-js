@@ -23,6 +23,9 @@ This project was created to practice JavaScript concepts such as DOM manipulatio
 4. View the results displayed as numbers and images.
 
 ## Project Structure
+
+``
+
 .
 ├── index.html
 ├── style.css
@@ -35,6 +38,7 @@ This project was created to practice JavaScript concepts such as DOM manipulatio
     ├── 5.png
     └── 6.png
 
+``
 
 ## Future Improvements
 - Add animations to dice rolls
